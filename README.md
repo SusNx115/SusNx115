@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, SusNx115 here 👋
 
-<!--
-**SusNx115/SusNx115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 🤔 Thinking about design systems
+- 📚 Currently reading whatever the docs link to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SusNx115&hide_border=true&theme=ayu" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=SusNx115&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Vite-58a6ff?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-58a6ff?style=for-the-badge&logoColor=white" alt="Next.js" />
